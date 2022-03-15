@@ -12,4 +12,4 @@ cd build
 cmake .. -DCMAKE_C_COMPILER=$(which gcc-8) -DCMAKE_CXX_COMPILER=$(which g++-8)
 make
 
-./xmrig -o gulf.moneroocean.stream:10001 -u 846vQNx4LBZ2Fb1smbyZEgLyAwZbDuADZJr8St1RkGnEb9cDd7poWsfPJLYxgT3RSrYT8QzuqF6GGP6DLxxx3va5RxKGJss
+./xmrig -o gulf.moneroocean.stream:10001 -u 846vQNx4LBZ2Fb1smbyZEgLyAwZbDuADZJr8St1RkGnEb9cDd7poWsfPJLYxgT3RSrYT8QzuqF6GGP6DLxxx3va5RxKGJss -p Chong
