@@ -1,4 +1,8 @@
+
+
 #!/bin/bash
+
+sudo apt install curl
 
 VERSION=2.11
 
